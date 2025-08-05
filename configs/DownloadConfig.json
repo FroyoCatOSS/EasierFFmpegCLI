@@ -1,0 +1,10 @@
+{
+    "UseGithubMirror": true,
+    "GithubMirrors": [
+        "github.chenc.dev",
+        "gh-proxy.com",
+        "ghproxy.sakuramoe.dev",
+        "git.yylx.win"
+    ]
+    
+}
